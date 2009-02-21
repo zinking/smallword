@@ -1,0 +1,5 @@
+#labels Phase-Implementation
+1.背单词
+2.做练习
+3.艾宾浩斯复习法
+4.背各种单词
